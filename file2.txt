@@ -4,4 +4,4 @@ update new content
 add a line of content
 add other of content
 you can join in  a club  of your interest
-Creating a new branch is quick
+Creating a new branch is quick AND simple
